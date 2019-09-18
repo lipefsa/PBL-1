@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568757860 source:/home/lipe/Documentos/Lipe/codeblocks/pbl/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
